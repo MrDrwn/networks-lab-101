@@ -10,3 +10,6 @@ Personal lab for documenting hands-on networking and cybersecurity experiments.
 - Basic network troubleshooting
 
 More experiments will be added over time.
+
+
+> There is no place like 127.0.0.1
